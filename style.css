@@ -6,7 +6,10 @@ h2 {
   text-align: center;
 }
 
-#firstvideo {
+.container {
+  /* text-align: center; */
+  display: flex;
+  gap: 1em;
   text-align: center;
 }
 
